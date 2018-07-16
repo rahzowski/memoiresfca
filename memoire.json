@@ -1,0 +1,96 @@
+[{
+		"parametresRetour": [{
+				"pageCouranteListeMemoire": 1,
+				"pagesListeMemoire": 3,
+				"nbResultatsParPageListeMemoire": 10,
+				"totalListeMemoire": 23,
+			}
+		],
+		"dateServeur": "2018-07-16T19:43:37+0100",
+		"listeMemoire": [{
+				"idDemandePaiement": 1,
+				"numeroMemoire": 123,
+				"etatCourantDemandePaiement": "PAYE",
+				"dateHeureEtatCourant": "2018-07-13T17:32:37+0100",
+				"numeroFactureMemoire": "00007",
+				"modeDepot": "",
+				"montantHT": "1250.45",
+				"montantTTC": "1375.99",
+				"NumeroBonCommande": "BC123",
+				"dateDepot": "2018-07-13T17:32:37+0100",
+				"dateFournisseur": "2018-07-13T17:32:37+0100",
+				"texteReference": "Texte référence",
+				"dateEcheancePaiement": "2018-07-13T17:32:37+0100",
+				"dateRejet": null,
+				"fournisseur": [{
+						"idFournisseur": 1,
+						"typeIdentifiantFournisseur": 20,
+						"identifiantFournisseur": 1500,
+						"designationFournisseur": "déno. fournisseur"
+					}
+				],
+				"destinataire": [{
+						"identifiantDestinataire": 1
+					}, {
+						"identifiantDestinataire": 3
+					}
+				],
+				"juridiction": [{
+						"libelle": "libellé juridiction",
+						"codeServiceExecutant": "CSE",
+						"nomServiceExecutant": "nom Service Executant",
+						"adresseJuridiction": [
+							"adresseJuridictionDetail": "1 Impasse de la Vesle",
+							"adresseJuridictionComplement": "",
+							"adresseJuridictionCodePostal": "78310",
+							"adresseJuridictionVille": "Maurepas"
+						]
+					}
+				],
+				"TGI": [{
+						"adresseTGI": [{
+								"adresseTGIDetail": "adr TGI détail",
+								"adresseTGIComplement": "",
+								"adresseTGICodePostal": "78000",
+								"adresseTGIVille": "Versailles"
+							}
+						],
+						"adresseElectroniqueTGI": "tgi@tgi.com"
+					}
+				],
+				"histoEtat": [{
+						"parametresRetourListeHistoEtat	": [{
+								"pageCouranteListeHistoEtat": "1",
+								"pagesListeHistoEtat": "1",
+								"nbResultatsParPageListeHistoEtat": "5",
+								"totalListeHistoEtat": "5"
+							}
+						],
+						"listeHistoEtat": [{
+								"dateHeure": "2018-07-13T17:32:37+0100",
+								"etat": "ETAT",
+								"commentaire": "xxxxxxxxxxxxx"
+							}
+						]
+					}
+				],
+				"histoEvenement": [{
+						"parametresRetourListeHistoEvenement": [{
+								"pageCouranteListeHistoEvenement": "1",
+								"pagesListeHistoEvenement": "1",
+								"nbResultatsParPageListeHistoEvenement": "6",
+								"totalListeHistoEvenement": "6"
+							}
+						],
+						"listeHistoEvenement": [{
+								"dateHeure": "2018-07-13T17:32:37+0100",
+								"libelle": "histo. evenement",
+								"commentaire": "blablaalazklzklakzal"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
