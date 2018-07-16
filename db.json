@@ -54,7 +54,7 @@
 						"adresseElectroniqueTGI": "tgi@tgi.com"
 				}],
 				"histoEtat": [{
-						"parametresRetourListeHistoEtat	": [{
+						"parametresRetourListeHistoEtat": [{
 								"pageCouranteListeHistoEtat": "1",
 								"pagesListeHistoEtat": "1",
 								"nbResultatsParPageListeHistoEtat": "5",
