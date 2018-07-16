@@ -1,5 +1,4 @@
 {
-		
 		"listeMemoire": [{
 				"idDemandePaiement": 1,
 				"numeroMemoire": 123,
@@ -72,5 +71,13 @@
 								"commentaire": "blablaalazklzklakzal"
 						}]
 				}]
-			}]
+			}],
+			"parametresRetour": [{
+				"pageCouranteListeMemoire": 1,
+				"pagesListeMemoire": 3,
+				"nbResultatsParPageListeMemoire": 10,
+				"totalListeMemoire": 23
+				}
+			],
+			"dateServeur": "2018-07-16T19:43:37+0100"
 	}
