@@ -39,12 +39,12 @@
 						"libelle": "libellé juridiction",
 						"codeServiceExecutant": "CSE",
 						"nomServiceExecutant": "nom Service Executant",
-						"adresseJuridiction": [
+						"adresseJuridiction": [{
 							"adresseJuridictionDetail": "1 Impasse de la Vesle",
 							"adresseJuridictionComplement": "",
 							"adresseJuridictionCodePostal": "78310",
 							"adresseJuridictionVille": "Maurepas"
-						]
+						}]
 					}
 				],
 				"TGI": [{
